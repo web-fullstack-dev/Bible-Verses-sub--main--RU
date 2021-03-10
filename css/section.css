@@ -20,6 +20,15 @@
   transform: scale(1.1);
 }
 
+.section__h1--lightseagreen {
+  background-color: hsl(177, 70%, 41%);
+}
+
+.section__h1--lightseagreen:active {
+  background-color: hsl(177, 70%, 46%);
+  transform: scale(1.1);
+}
+
 .section__h1--link {
   text-decoration: none;
   cursor: context-menu; 
